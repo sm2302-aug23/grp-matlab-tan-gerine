@@ -1,4 +1,4 @@
-%% Definining data points for the name "Haiman"
+% % Definining data points for the name "Haiman"
 
 % Coordinates of cursive H
 hx = [1 2 1.25 0.75 0.25 3.75 3.25 2.5 3.8];
@@ -53,6 +53,8 @@ nyy = spline(t, ny, tt);
 
 %------------------------------------------------------------------
 nexttile([1 3])
+
+figure(1)
 % Plot settings
 nameplot(hx,hy,hxx,hyy)
 nameplot(ax,ay,axx,ayy)
@@ -67,8 +69,8 @@ xlabel('X')
 ylabel('Y')
 hold off
 
-
-%% Definining data points for the name "Afiq"
+help nexttile
+% % Definining data points for the name "Afiq"
 
 % Coordinates of cursive a
 axA = [3.3 1 3 3.4 3.5 5];
@@ -110,6 +112,7 @@ qyyA = spline(t, qyA, tt);
 
 %------------------------------------------------------------------
 nexttile([1 3])
+figure(1)
 % Plot settings
 
 nameplot(axA,ayA,axxA,ayyA)
@@ -125,7 +128,7 @@ ylabel('Y')
 hold off
 
 
-%% Definining data points for the name "Qi"
+% % Definining data points for the name "Qi"
 
  % Define data points for x and y coordinates
  qxQ = [1.5 1.0 0.7 0.35 0.5 1.8 2.9 2.5 1.6 1.8 3.0];
@@ -161,7 +164,6 @@ hold on
  set(gca, 'FontSize', 10, 'LineWidth', 1)
  grid on
 
- figure(2)
  plot(xxQ, yyQ, 'k', 'LineWidth', 1.5) % plot spline
 hold on
  plot(ixQ, iyQ, 'bo', 'MarkerFaceColor', 'b') % plot data points
