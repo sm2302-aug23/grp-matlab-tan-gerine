@@ -1,15 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/i8q0vJZ5)
-# Group Assignment (MATLAB)
-
-This repository contains instructions for SM-2302 MATLAB group assignment.
-
-The assignment is due on **Tuesday, 7 November 2023 at 12:00 PM**.
-
-Understand the sample code given in the [`Group2-2023.pdf`](Group2-2023.pdf) document, and read the instructions carefully.
-
-Read [`notes.md`](notes.md) for some advice on good MATLAB programming style and marking scheme.
-
-----------------
 
 # Spline Your Name
 
@@ -31,7 +19,7 @@ rough view of the letters and names that we decided on.
 
 ## 2.Digital reconstruction
 
-The code you can find in this repository but I'll give a brief overview.
+The code can be found in this repository, this is just a brief overview.
 
 ### Functions used
 
@@ -59,3 +47,19 @@ end
 **it looks stretched due to the graphs being on top of each other, it looks better if you run it one by one**
 ![Screenshot 2023-11-07 102027](https://github.com/sm2302-aug23/grp-matlab-tan-gerine/assets/141986996/a37146d2-687e-4c7e-ae0e-23e529afd0eb)
 
+-----------------------------------
+## 3. Word combination & function scripting
+
+
+-----------------------------------
+#Instructions
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/i8q0vJZ5)
+# Group Assignment (MATLAB)
+
+This repository contains instructions for SM-2302 MATLAB group assignment.
+
+The assignment is due on **Tuesday, 7 November 2023 at 12:00 PM**.
+
+Understand the sample code given in the [`Group2-2023.pdf`](Group2-2023.pdf) document, and read the instructions carefully.
+
+Read [`notes.md`](notes.md) for some advice on good MATLAB programming style and marking scheme.
