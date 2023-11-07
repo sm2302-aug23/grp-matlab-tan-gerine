@@ -50,6 +50,9 @@ end
 -----------------------------------
 ## 3. Word combination & function scripting
 
+The function `plotWord.m` works but we didn't manage to finish creating the data for it. 
+
+Only a few letters are available so if you tried with other letters it would give out an error.
 
 -----------------------------------
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/i8q0vJZ5)
