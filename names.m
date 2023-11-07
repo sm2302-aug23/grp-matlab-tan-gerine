@@ -125,7 +125,7 @@ ylabel('Y')
 hold off
 
 
-%% Definining data points for the name "QL"
+%% Definining data points for the name "Qi"
 
  % Define data points for x and y coordinates
  qxQ = [1.5 1.0 0.7 0.35 0.5 1.8 2.9 2.5 1.6 1.8 3.0];
