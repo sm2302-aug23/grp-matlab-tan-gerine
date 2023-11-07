@@ -56,7 +56,13 @@ As of now only these letters work:
 
 |**A B C D H I L M N Q**|
 
+(what the letters look like so far)
+<img width="960" alt="Screenshot 2023-11-07 134328" src="https://github.com/sm2302-aug23/grp-matlab-tan-gerine/assets/141986996/95fec1e3-9666-4779-b7c1-089b975ec729">
+
+
 -----------------------------------
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/i8q0vJZ5)
 # Group Assignment (MATLAB)
 
