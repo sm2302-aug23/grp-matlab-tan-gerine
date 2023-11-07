@@ -53,3 +53,9 @@ t = 0:n-1; % Parametric coordinates
 tt = 0:0.01:n-1; % tt for spline interpolation
 end
 ```
+
+## Now to plot the names in matlab and the result are:
+
+**it looks stretched due to the graphs being on top of each other, it looks better if you run it one by one**
+![Screenshot 2023-11-07 102027](https://github.com/sm2302-aug23/grp-matlab-tan-gerine/assets/141986996/a37146d2-687e-4c7e-ae0e-23e529afd0eb)
+
