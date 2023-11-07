@@ -1,0 +1,4 @@
+plotWord('ha')
+
+
+
