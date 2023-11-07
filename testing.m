@@ -1,0 +1,1 @@
+plotWord('abcfhimnq')

@@ -1,4 +1,0 @@
-plotWord('ha')
-
-
-
